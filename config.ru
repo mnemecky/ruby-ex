@@ -19,7 +19,7 @@ map '/' do
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Welcome to my demo OpenShift installation on Ruby take 2</title>
+  <title>Welcome to OpenShift installation</title>
 
 
 <style>
@@ -226,9 +226,10 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your Ruby application on OpenShift</h1>
+            <h1>Welcome to my own Ruby app on Openshift</h1>
           </hgroup>
 
+OSS demo lab @ Zurich
 
         <div class="row">
           <section class='col-xs-12 col-sm-6 col-md-6'>
